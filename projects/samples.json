@@ -1,6 +1,5 @@
 {
   "Banking": {
-    "displayName": "Banking",
     "description": "Decisions for the banking industry.",
     "type": 1,
     "nbProjects": 1,
@@ -9,7 +8,6 @@
     "iconColor": "purple"
   },
   "Compensation": {
-    "displayName": "Compensation",
     "description": "Decisions for compensation policies.",
     "type": 1,
     "nbProjects": 1,
@@ -18,7 +16,6 @@
     "iconColor": "magenta"
   },
   "Language": {
-    "displayName": "Language",
     "description": "Decisions in French.",
     "type": 0,
     "nbProjects": 2,
@@ -27,7 +24,6 @@
     "iconColor": "blue"
   },
   "GettingStarted": {
-    "displayName": "Getting started",
     "description": "Getting started tutorial answer decision services.",
     "type": 0,
     "nbProjects": 1,
@@ -35,17 +31,7 @@
     "iconName": "Education",
     "iconColor": "teal"
   },
-  "MachineLearningStart": {
-    "displayName": "Machine learning start",
-    "description": "ML Start tutorial answer decision services.",
-    "type": 0,
-    "nbProjects": 1,
-    "level": 0,
-    "iconName": "IbmWatsonMachineLearning",
-    "iconColor": "yellow"
-  },
   "Pricing": {
-    "displayName": "Pricing",
     "description": "Decisions to reflect pricing policies.",
     "type": 1,
     "nbProjects": 1,
@@ -54,7 +40,6 @@
     "iconColor": "cool-gray"
   },
   "Retail": {
-    "displayName": "Retail",
     "description": "Decisions for the retail industry, for example, loyalty programs and shopping carts.",
     "type": 1,
     "nbProjects": 2,
@@ -63,7 +48,6 @@
     "iconColor": "cyan"
   },
   "Telecom": {
-    "displayName": "Telecom",
     "description": "Decisions for the telecom industry.",
     "type": 1,
     "nbProjects": 1,
@@ -72,7 +56,6 @@
     "iconColor": "red"
   },
   "Training": {
-    "displayName": "Training",
     "description": "Learn key features in Automation Decision Services through practical examples.",
     "type": 0,
     "nbProjects": 5,
@@ -81,7 +64,6 @@
     "iconColor": "warm-gray"
   },
   "Transportation": {
-    "displayName": "Transportation",
     "description": "Decisions for the transportation industry.",
     "type": 1,
     "nbProjects": 3,
