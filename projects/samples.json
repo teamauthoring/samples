@@ -89,6 +89,15 @@
     "iconName": "Education",
     "iconColor": "blue"
   },
+  "Japanese": {
+    "displayName": "Japanese - 日本語",
+    "description": "日本語の意思決定",
+    "type": 0,
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "blue"
+  },
   "Spanish": {
     "displayName": "Spanish - Español",
     "description": "Decisiones en Español.",
