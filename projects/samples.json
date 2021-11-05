@@ -111,7 +111,7 @@
     "displayName": "Banking",
     "description": "Validate loans and compute insurance rates for the requested loan.",
     "type": 1,
-    "nbProjects": 2,
+    "nbProjects": 3,
     "level": 0,
     "iconName": "Finance",
     "iconColor": "purple"
