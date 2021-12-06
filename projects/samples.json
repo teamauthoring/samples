@@ -147,7 +147,7 @@
     "displayName": "Telecom",
     "description": "Determine the best offer to make to customers to reduce churn rate.",
     "type": 1,
-    "nbProjects": 1,
+    "nbProjects": 2,
     "level": 2,
     "iconName": "PhoneFilled",
     "iconColor": "red"
