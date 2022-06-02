@@ -1,0 +1,21 @@
+{
+  "loan" : {
+    "amount" : 185000,
+    "loanToValue" : 0.7,
+    "numberOfMonthlyPayments" : 120,
+    "startDate" : "2021-11-16T17:03:18.152Z"
+  },
+  "borrower" : {
+    "SSN" : {
+      "areaNumber" : "123",
+      "groupCode" : "45",
+      "serialNumber" : "6789"
+    },
+    "birthDate" : "1978-11-16T17:03:18.152Z",
+    "creditScore" : 200,
+    "firstName" : "John",
+    "lastName" : "Doe",
+    "yearlyIncome" : 80000,
+    "zipCode" : "12345"
+  }
+}

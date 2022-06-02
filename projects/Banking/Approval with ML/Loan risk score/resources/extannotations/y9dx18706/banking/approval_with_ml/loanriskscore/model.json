@@ -1,0 +1,60 @@
+{
+  "name" : "SGDClassifier",
+  "id" : "11",
+  "version" : "v1",
+  "modifiedAt" : "2022-05-06T15:12:33.974282Z",
+  "trainedAt" : "2022-05-06T15:12:33.885040Z",
+  "description" : "",
+  "inputSchema" : {
+    "id" : "input_id",
+    "name" : "input for SGDClassifier",
+    "type" : "struct",
+    "fields" : [ {
+      "name" : "creditScore",
+      "type" : "double",
+      "nullable" : false
+    }, {
+      "name" : "income",
+      "type" : "double",
+      "nullable" : false
+    }, {
+      "name" : "loanAmount",
+      "type" : "double",
+      "nullable" : false
+    }, {
+      "name" : "monthDuration",
+      "type" : "double",
+      "nullable" : false
+    }, {
+      "name" : "rate",
+      "type" : "double",
+      "nullable" : false
+    }, {
+      "name" : "yearlyReimbursement",
+      "type" : "double",
+      "nullable" : false
+    } ]
+  },
+  "outputSchema" : {
+    "id" : "output_id",
+    "name" : "output for SGDClassifier",
+    "type" : "struct",
+    "fields" : [ {
+      "name" : "probability_0",
+      "type" : "double",
+      "nullable" : false
+    }, {
+      "name" : "probability_1",
+      "type" : "double",
+      "nullable" : false
+    }, {
+      "name" : "predicted_paymentDefault",
+      "type" : "integer",
+      "nullable" : false
+    } ]
+  },
+  "metadata" : {
+    "description" : null,
+    "tags" : [ "ADS_TAG/082392706/Banking" ]
+  }
+}
