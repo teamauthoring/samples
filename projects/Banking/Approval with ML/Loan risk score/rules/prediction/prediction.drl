@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
-  <name>loanRiskScore</name>
-  <uuid>747dae95-1f1f-41f0-b9b1-2c25b230ad5a</uuid>
-  <locale>en_US</locale>
-  <definition><![CDATA[set decision to predict( 'Input mapping' ) ;]]></definition>
-</ilog.rules.studio.model.brl:ActionRule>
