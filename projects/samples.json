@@ -98,6 +98,15 @@
     "iconName": "Education",
     "iconColor": "blue"
   },
+  "Portuguese": {
+  "displayName": "Portuguese - Português",
+  "description": "Decisões em português.",
+  "type": 0,
+  "nbProjects": 1,
+  "level": 0,
+  "iconName": "Education",
+  "iconColor": "blue"
+},
   "Spanish": {
     "displayName": "Spanish - Español",
     "description": "Decisiones en Español.",
